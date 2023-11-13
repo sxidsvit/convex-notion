@@ -14,9 +14,7 @@ npm i
 
 ### Setup .env file
 
-
 ```js
-# Deployment used by `npx convex dev`
 CONVEX_DEPLOYMENT=
 NEXT_PUBLIC_CONVEX_URL=
 
