@@ -2,7 +2,7 @@
 
 ###  Next.js 13, React, Convex, Edge Store, TailwindCSS 
 
-[Visit site](https://convex-notion-git-main-sxidsvit.vercel.app/)
+[Visit site](https://convex-notion-sxidsvit.vercel.app/)
 
 ---
 
